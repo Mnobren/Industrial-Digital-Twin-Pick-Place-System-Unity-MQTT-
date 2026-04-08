@@ -46,7 +46,7 @@ You must configure your own MQTT broker and Node-RED flows externally.
 
 ## ▶️ Demo
 
-👉 [Access the WebGL Demo here](mnobren.github.io)
+👉 [Access the WebGL Demo here](https://mnobren.github.io/Industrial-Digital-Twin-Pick-Place-System-Unity-MQTT-/)
 (*Replace with your GitHub Pages link*)
 
 ---
