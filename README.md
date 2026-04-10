@@ -6,6 +6,9 @@ This project implements a **Digital Twin of a Pick & Place system** developed in
 
 The Digital Twin replicates the behavior of a real pick-and-place operation, allowing interaction, monitoring, and control through message exchange.
 
+
+
+
 ---
 
 ## 🧠 Concept
@@ -19,6 +22,9 @@ A Digital Twin is a virtual representation of a physical system. In this project
 
 The architecture is designed to integrate with external platforms such as Node-RED for orchestration and data flow management.
 
+
+
+
 ---
 
 ## ⚙️ Technologies Used
@@ -27,6 +33,9 @@ The architecture is designed to integrate with external platforms such as Node-R
 * C#
 * MQTT protocol
 * Node-RED (external, not included in this repository)
+
+
+
 
 ---
 
@@ -42,12 +51,18 @@ The system communicates using MQTT topics to:
 The Node-RED server is **not included** in this repository.
 You must configure your own MQTT broker and Node-RED flows externally.
 
+
+
+
 ---
 
 ## ▶️ Demo
 
 👉 [Access the WebGL Demo here](https://mnobren.github.io/Industrial-Digital-Twin-Pick-Place-System-Unity-MQTT-/)
 (*Replace with your GitHub Pages link*)
+
+
+
 
 ---
 
@@ -60,6 +75,9 @@ You must configure your own MQTT broker and Node-RED flows externally.
 * Unity acts as the Digital Twin (simulation layer)
 * MQTT enables communication
 * Node-RED orchestrates logic and integration
+
+
+
 
 ---
 
@@ -77,6 +95,9 @@ Access the project directly in your browser:
 3. Ensure MQTT broker is running
 4. Configure connection settings if necessary
 
+
+
+
 ---
 
 ## 🧪 Possible Extensions
@@ -85,6 +106,9 @@ Access the project directly in your browser:
 * Real-time data ingestion
 * Dashboard visualization
 * AI-based optimization
+
+
+
 
 ---
 

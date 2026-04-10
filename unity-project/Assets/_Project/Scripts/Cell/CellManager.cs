@@ -259,7 +259,7 @@ namespace Project.Cell
             if (!StateMachine.IsInState<Cell.States.Idle>()) aux = false;
             if (!robot.IsInState<Robotics.States.IdleState>()) aux = false;
             if (!conveyor.IsInState<Simulation.Conveyor.States.Stopped>()) aux = false;
-            if (aux)
+            if (!aux)
             {
                 Debug.LogWarning("UI → Start Cell: Cancel. System is not ready.");
                 return;

@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
+#if UNITY_EDITOR
 using UnityEditor.ShaderKeywordFilter;
+#endif
 using UnityEngine;
 using UnityEngine.InputSystem.Interactions;
 
