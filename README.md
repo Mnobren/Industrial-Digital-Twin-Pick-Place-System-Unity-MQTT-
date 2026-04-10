@@ -68,7 +68,7 @@ You must configure your own MQTT broker and Node-RED flows externally.
 ### Option 1 – Web Demo
 
 Access the project directly in your browser:
-👉 [Demo Link](#)
+👉 [Demo Link](https://mnobren.github.io/Industrial-Digital-Twin-Pick-Place-System-Unity-MQTT-/)
 
 ### Option 2 – Local Build
 
@@ -90,15 +90,15 @@ Access the project directly in your browser:
 
 ## 📸 Screenshots
 
-...
+![App Screenshot](assets/screenshot.png)
 
 ---
 
 ## 👤 Author
 
 Mauricio Nobre Nunes Pereira
-LinkedIn:
-GitHub:
+LinkedIn: https://www.linkedin.com/in/mauricio-pereira-2a0b15208/
+GitHub: https://github.com/Mnobren
 
 ---
 
